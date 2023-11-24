@@ -1,0 +1,16 @@
+/* Write your CSS here */
+vaccination-by-gender-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #1c1c2b;
+}
+
+.vaccination-by-gender-heading {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #94a3b8;
+}
